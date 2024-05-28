@@ -1,8 +1,5 @@
-import { makeInstaller } from '@component-template/utils';
-import { Button } from './button'
+import installer from './install';
 
-const components = [
-  Button,
-];
+export * from './button';
 
-export default makeInstaller(components)
+export default installer;

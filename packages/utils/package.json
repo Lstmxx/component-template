@@ -11,8 +11,5 @@
   },
   "dependencies": {
     "@component-template/constants": "workspace:^"
-  },
-  "devDependencies": {
-    "@vue/runtime-core": "^3.4.27"
   }
 }
